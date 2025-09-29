@@ -47,9 +47,12 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
+![WhatsApp Image 2025-09-29 at 13 56 20_46cdb0a5](https://github.com/user-attachments/assets/021b1658-c85f-40e2-b3d7-dd1fda6c96d3)
+![WhatsApp Image 2025-09-29 at 13 56 34_1a583771](https://github.com/user-attachments/assets/c87b4403-279b-46a0-adb6-25dec11f2397)
 
-```
+
+
+
 # Output
 
 <img width="598" height="546" alt="image" src="https://github.com/user-attachments/assets/baa4f459-1d23-4d77-bc45-4c70cdf5e46d" />
